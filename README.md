@@ -11,6 +11,9 @@ Se usa CSS para darle dinamismo a la pagina
 
 Se usa template de [Bootstrap] (https://getbootstrap.com)
 
+
+
+## INFORMACION DE REACT
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
