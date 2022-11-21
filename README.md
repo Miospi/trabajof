@@ -1,3 +1,8 @@
+# Html
+
+lenguaje que se inserto para modelar la pagina en JS
+
+
 # CSS
 
 Se usa CSS para darle dinamismo a la pagina
