@@ -167,7 +167,7 @@ function App() {
             <div class="resume-section-content">
                 <h2 class="mb-5">Intereses</h2>
                 <p>Aparte de un rubro de estudio y aprendisaje, tambien me gusta tener una disponibilidad del tiempo para poder entrenar que es
-                    uno de los pasa tiempos que mas gutan, al igual que leer un libro o salir a caminar y deconectarme del mundo tecnologico durante un tiempo.
+                    uno de los pasa tiempos que mas gustan, al igual que leer un libro o salir a caminar y deconectarme del mundo tecnologico durante un tiempo.
 
                 </p>
               
