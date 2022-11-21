@@ -1,3 +1,7 @@
+# CSS
+
+Se usa CSS para darle dinamismo a la pagina
+
 # Template
 
 Se usa template de [Bootstrap] (https://getbootstrap.com)
