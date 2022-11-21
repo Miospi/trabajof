@@ -9,7 +9,7 @@ function App() {
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="CV Miguel Ospina" />
+    <meta name="description" content="CV Miguel Ospin" />
     <meta name="author" content="Miguel Ospina Quintero" />
     <title>CV MIGUEL OSPINA</title>
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
