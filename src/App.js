@@ -29,7 +29,7 @@ function App() {
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
             <span class="d-block d-lg-none">Miguel Ospina Quintero</span>
             <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2"
-                    src="assets/img/WhatsApp Image 2022-10-25 at 12.11.15 PM.jpeg" alt="..." /></span>
+                    src="image.png" alt="..." /></span>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
             aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span
